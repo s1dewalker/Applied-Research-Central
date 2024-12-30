@@ -1,1 +1,1 @@
-# Applied-Research-Central
+# Applied Research Central
