@@ -9,7 +9,7 @@
 <br/>
 
 ### [Model Validation and Tuning in Python](https://github.com/s1dewalker/Model_Validation)
-###### Bias-Variance trade-off check | Cross Validation | Tuning ML models 
+###### Model Assumptions | OLS Regression | Bias-Variance trade-off check | Cross Validation | Tuning ML models 
 <br/>
 
 ### [Credit Risk Modeling](https://github.com/s1dewalker/Credit-Risk-Modeling-in-Python)
