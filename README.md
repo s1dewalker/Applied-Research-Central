@@ -12,7 +12,7 @@
 ###### Autocorrelation | Random Walk | Stationarity
 <br/>
 
-### [Model Validation and Tuning in Python](https://github.com/s1dewalker/Model_Validation)
+### [Model Validation and Tuning](https://github.com/s1dewalker/Model_Validation)
 ###### Model Assumptions | OLS Regression | Bias-Variance trade-off check | Cross Validation | Tuning ML models 
 <br/>
 
