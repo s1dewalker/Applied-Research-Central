@@ -1,5 +1,8 @@
 # Applied Research Central
 
+### [Markov Model for Stock](https://github.com/s1dewalker/Markov-Model-for-Stocks)
+###### k-means clustering | Market states | Markov Model | Transition matrix
+
 ### [Bond Valuation and Analysis in Python](https://github.com/s1dewalker/Bond-evaluating-bond/blob/main/Bond_valuation.ipynb)
 ###### Time Value | Bond Pricing | Duration | Convexity 
 <br/>
