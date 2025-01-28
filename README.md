@@ -2,6 +2,7 @@
 
 ### [Markov Model for Stock](https://github.com/s1dewalker/Markov-Model-for-Stocks)
 ###### K-means clustering | Market states | Markov Model | Transition matrix
+<br/>
 
 ### [Bond Valuation and Analysis in Python](https://github.com/s1dewalker/Bond-evaluating-bond/blob/main/Bond_valuation.ipynb)
 ###### Time Value | Bond Pricing | Duration | Convexity 
