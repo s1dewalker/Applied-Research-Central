@@ -1,5 +1,10 @@
 # Applied Research Central
 
+
+### [Cointegration for pairs trading](https://github.com/s1dewalker/Cointegration)
+###### Cointegration | Time Series Analysis | Pairs Trading | Mean-reversion
+<br/>
+
 ### [Markov Model for Stock](https://github.com/s1dewalker/Markov-Model-for-Stocks)
 ###### K-means clustering | Market states | Markov Model | Transition matrix | Factor Analysis
 <br/>
