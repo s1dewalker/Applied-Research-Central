@@ -1,7 +1,7 @@
 # Applied Research Central
 
 
-### [Cointegration for pairs trading](https://github.com/s1dewalker/Cointegration)
+### [Cointegration for Pairs Trading](https://github.com/s1dewalker/Cointegration)
 ###### Cointegration | Time Series Analysis | Pairs Trading | Mean-reversion
 <br/>
 
