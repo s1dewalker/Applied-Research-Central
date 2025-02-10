@@ -5,10 +5,6 @@
 ###### Cointegration | Time Series Analysis | Pairs Trading | Mean-reversion
 <br/>
 
-### [Markov Model for Stock](https://github.com/s1dewalker/Markov-Model-for-Stocks)
-###### K-means clustering | Market states | Markov Model | Transition matrix | Factor Analysis
-<br/>
-
 ### [Bond Valuation and Analysis in Python](https://github.com/s1dewalker/Bond-evaluating-bond/blob/main/Bond_valuation.ipynb)
 ###### Time Value | Bond Pricing | Duration | Convexity 
 <br/>
